@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TesoroSDK'
-  s.version          = '0.0.11-alpha'
+  s.version          = '0.0.17-alpha'
   s.summary          = 'Tesoro SDK for iOS - Integrate the Tesoro Value Wall into your iOS apps'
   s.description      = <<-DESC
     The official Tesoro SDK for iOS enables you to integrate the Tesoro Value Wall
